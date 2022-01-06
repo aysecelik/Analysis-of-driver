@@ -1,0 +1,1 @@
+Bilgisayarla görü ve makine öğrenmesi ile geliştirilen bu projede opencv ve yolov3, programlama dili için ise python kullanılmıştır. Sürücünün göz durumunu takip eden uygulamada göz kapalı olarak algılandığında alarm çalmaktadır. ÖNEMLİ! Boyutundan dolayı yolov3_custom_last.weights dosyası eklenmemiştir.
